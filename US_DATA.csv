@@ -1,0 +1,51 @@
+STATENAME,POPULATION_2010,STATE,STATECODE,DIVISION,REGION,YouBeenThere
+Alabama,"4,779,736",1,AL,East South Central,South,0
+Alaska,"710,231",2,AK,Pacific,West,0
+Arizona,"6,392,017",4,AZ,Mountain,West,0
+Arkansas,"2,915,918",5,AR,West South Central,South,0
+California,"37,253,956",6,CA,Pacific,West,0
+Colorado,"5,029,196",8,CO,Mountain,West,0
+Connecticut,"3,574,097",9,CT,New England,Northeast,0
+Delaware,"897,934",10,DE,South Atlantic,South,0
+Florida,"18,801,310",12,FL,South Atlantic,South,0
+Georgia,"9,687,653",13,GA,South Atlantic,South,0
+Hawaii,"1,360,301",15,HI,Pacific,West,0
+Idaho,"1,567,582",16,ID,Mountain,West,0
+Illinois,"12,830,632",17,IL,East North Central,Midwest,0
+Indiana,"6,483,802",18,IN,East North Central,Midwest,0
+Iowa,"3,046,355",19,IA,West North Central,Midwest,0
+Kansas,"2,853,118",20,KS,West North Central,Midwest,0
+Kentucky,"4,339,367",21,KY,East South Central,South,0
+Louisiana,"4,533,372",22,LA,West South Central,South,0
+Maine,"1,328,361",23,ME,New England,Northeast,0
+Maryland,"5,773,552",24,MD,South Atlantic,South,0
+Massachusetts,"6,547,629",25,MA,New England,Northeast,0
+Michigan,"9,883,640",26,MI,East North Central,Midwest,0
+Minnesota,"5,303,925",27,MN,West North Central,Midwest,0
+Mississippi,"2,967,297",28,MS,East South Central,South,0
+Missouri,"5,988,927",29,MO,West North Central,Midwest,0
+Montana,"989,415",30,MT,Mountain,West,0
+Nebraska,"1,826,341",31,NE,West North Central,Midwest,0
+Nevada,"2,700,551",32,NV,Mountain,West,0
+New Hampshire,"1,316,470",33,NH,New England,Northeast,0
+New Jersey,"8,791,894",34,NJ,Middle Atlantic,Northeast,0
+New Mexico,"2,059,179",35,NM,Mountain,West,0
+New York,"19,378,102",36,NY,Middle Atlantic,Northeast,0
+North Carolina,"9,535,483",37,NC,South Atlantic,South,0
+North Dakota,"672,591",38,ND,West North Central,Midwest,0
+Ohio,"11,536,504",39,OH,East North Central,Midwest,0
+Oklahoma,"3,751,351",40,OK,West South Central,South,0
+Oregon,"3,831,074",41,OR,Pacific,West,0
+Pennsylvania,"12,702,379",42,PA,Middle Atlantic,Northeast,0
+Rhode Island,"1,052,567",44,RI,New England,Northeast,0
+South Carolina,"4,625,364",45,SC,South Atlantic,South,0
+South Dakota,"814,180",46,SD,West North Central,Midwest,0
+Tennessee,"6,346,105",47,TN,East South Central,South,0
+Texas,"25,145,561",48,TX,West South Central,South,0
+Utah,"2,763,885",49,UT,Mountain,West,0
+Vermont,"625,741",50,VT,New England,Northeast,0
+Virginia,"8,001,024",51,VA,South Atlantic,South,0
+Washington,"6,724,540",53,WA,Pacific,West,0
+West Virginia,"1,852,994",54,WV,South Atlantic,South,0
+Wisconsin,"5,686,986",55,WI,East North Central,Midwest,0
+Wyoming,"563,626",56,WY,Mountain,West,0
